@@ -5,8 +5,8 @@
 # catalog-license lppl1.3
 # catalog-version 1
 Name:		texlive-sansmathfonts
-Version:	1
-Release:	9
+Version:	20170215
+Release:	1
 Summary:	Correct placement of accents in sans-serif maths
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/fonts/sansmathfonts
