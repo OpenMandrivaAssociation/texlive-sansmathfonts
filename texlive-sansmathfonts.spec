@@ -1,5 +1,5 @@
 Name:		texlive-sansmathfonts
-Version:	68777
+Version:	72563
 Release:	1
 Summary:	Correct placement of accents in sans-serif maths
 Group:		Publishing
